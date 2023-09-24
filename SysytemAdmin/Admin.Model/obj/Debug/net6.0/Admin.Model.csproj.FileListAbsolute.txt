@@ -1,0 +1,12 @@
+D:\Net\NetProject\SysytemAdmin\Admin.Model\bin\Debug\net6.0\Admin.Model.deps.json
+D:\Net\NetProject\SysytemAdmin\Admin.Model\bin\Debug\net6.0\Admin.Model.dll
+D:\Net\NetProject\SysytemAdmin\Admin.Model\bin\Debug\net6.0\Admin.Model.pdb
+D:\Net\NetProject\SysytemAdmin\Admin.Model\obj\Debug\net6.0\Admin.Model.csproj.AssemblyReference.cache
+D:\Net\NetProject\SysytemAdmin\Admin.Model\obj\Debug\net6.0\Admin.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net\NetProject\SysytemAdmin\Admin.Model\obj\Debug\net6.0\Admin.Model.AssemblyInfoInputs.cache
+D:\Net\NetProject\SysytemAdmin\Admin.Model\obj\Debug\net6.0\Admin.Model.AssemblyInfo.cs
+D:\Net\NetProject\SysytemAdmin\Admin.Model\obj\Debug\net6.0\Admin.Model.csproj.CoreCompileInputs.cache
+D:\Net\NetProject\SysytemAdmin\Admin.Model\obj\Debug\net6.0\Admin.Model.dll
+D:\Net\NetProject\SysytemAdmin\Admin.Model\obj\Debug\net6.0\refint\Admin.Model.dll
+D:\Net\NetProject\SysytemAdmin\Admin.Model\obj\Debug\net6.0\Admin.Model.pdb
+D:\Net\NetProject\SysytemAdmin\Admin.Model\obj\Debug\net6.0\ref\Admin.Model.dll

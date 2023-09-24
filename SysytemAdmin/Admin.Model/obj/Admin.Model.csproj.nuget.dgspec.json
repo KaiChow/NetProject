@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Net\\SysytemAdmin\\Admin.Model\\Admin.Model.csproj": {}
+    "D:\\Net\\NetProject\\SysytemAdmin\\Admin.Model\\Admin.Model.csproj": {}
   },
   "projects": {
-    "D:\\Net\\SysytemAdmin\\Admin.Model\\Admin.Model.csproj": {
+    "D:\\Net\\NetProject\\SysytemAdmin\\Admin.Model\\Admin.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Net\\SysytemAdmin\\Admin.Model\\Admin.Model.csproj",
+        "projectUniqueName": "D:\\Net\\NetProject\\SysytemAdmin\\Admin.Model\\Admin.Model.csproj",
         "projectName": "Admin.Model",
-        "projectPath": "D:\\Net\\SysytemAdmin\\Admin.Model\\Admin.Model.csproj",
+        "projectPath": "D:\\Net\\NetProject\\SysytemAdmin\\Admin.Model\\Admin.Model.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Net\\SysytemAdmin\\Admin.Model\\obj\\",
+        "outputPath": "D:\\Net\\NetProject\\SysytemAdmin\\Admin.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

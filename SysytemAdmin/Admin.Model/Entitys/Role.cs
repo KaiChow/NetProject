@@ -14,13 +14,13 @@ namespace Admin.Model.Entitys
         /// 名称
         /// </summary>
         [SugarColumn(IsNullable = false)]
-        public string Name { get; set; }
+        public string RoleName { get; set; }
 
         /// <summary>
-        /// 排序
+        /// 角色说明
         /// </summary>
         [SugarColumn(IsNullable = false)]
-        public int Order { get; set; }
+        public string RoleDescription { get; set; }
         /// <summary>
         /// 是否启用（0=未启用，1=启用）
         /// </summary>

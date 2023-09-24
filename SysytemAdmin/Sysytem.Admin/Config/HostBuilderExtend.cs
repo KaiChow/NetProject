@@ -17,7 +17,7 @@ namespace Sysytem.Admin.Config
                     SqlSugarClient db = new SqlSugarClient(new ConnectionConfig()
                     {
 
-                        ConnectionString = "Data Source=localhost;Initial Catalog=SysAdmin;User ID=sa;Password=sa123456;",
+                        ConnectionString = "Data Source=localhost;Initial Catalog=SystemAdmin;User ID=KaiChow;Password=zk123456;",
                         DbType = DbType.SqlServer,
                         IsAutoCloseConnection = true
                     });
