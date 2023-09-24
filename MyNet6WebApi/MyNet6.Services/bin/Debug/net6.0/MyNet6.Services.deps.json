@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyNet6.Services/1.0.0": {
+        "dependencies": {
+          "MyNet6.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "MyNet6.Services.dll": {}
+        }
+      },
+      "MyNet6.Interfaces/1.0.0": {
+        "runtime": {
+          "MyNet6.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyNet6.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyNet6.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

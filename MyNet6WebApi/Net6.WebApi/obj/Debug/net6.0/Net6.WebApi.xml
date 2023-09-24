@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Net6.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:Net6.WebApi.Controllers.FileController">
+            <summary>
+            文件操作
+            </summary>
+        </member>
+        <member name="M:Net6.WebApi.Controllers.FileController.UploadFile(Microsoft.AspNetCore.Http.IFormCollection)">
+            <summary>
+            上传文件
+            </summary>
+            <param name="form"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Net6.WebApi.Controllers.IOCContainerController">
+            <summary>
+            IOC容器
+            </summary>
+        </member>
+        <member name="M:Net6.WebApi.Controllers.IOCContainerController.#ctor(Microsoft.Extensions.Logging.ILogger{Net6.WebApi.Controllers.IOCContainerController},MyNet6.Interfaces.ITestServiceA,System.IServiceProvider)">
+            <summary>
+            服务注入
+            </summary>
+            <param name="logger"></param>
+            <param name="iTestServiceA"></param>
+            <param name="iServiceProvider"></param>
+        </member>
+        <member name="T:Net6.WebApi.Controllers.WeatherForecastController">
+            <summary>
+            获取天气
+            </summary>
+        </member>
+        <member name="M:Net6.WebApi.Controllers.WeatherForecastController.#ctor(Microsoft.Extensions.Logging.ILogger{Net6.WebApi.Controllers.WeatherForecastController})">
+            <summary>
+            天气的日志
+            </summary>
+            <param name="logger"></param>
+        </member>
+        <member name="M:Net6.WebApi.Controllers.WeatherForecastController.Get">
+            <summary>
+            获取天气数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Net6.WebApi.Utility.FileUploadFilter">
+            <summary>
+            扩展文件上传，显示上传按钮
+            </summary>
+        </member>
+        <member name="M:Net6.WebApi.Utility.FileUploadFilter.Apply(Microsoft.OpenApi.Models.OpenApiOperation,Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)">
+            <summary>
+            重新实现文件的接口
+            </summary>
+            <param name="operation"></param>
+            <param name="context"></param>
+        </member>
+        <member name="T:Net6.WebApi.Utility.HttpClientUtil">
+            <summary>
+            http帮助类
+            </summary>
+        </member>
+        <member name="M:Net6.WebApi.Utility.HttpClientUtil.UploadFile(System.String,System.String)">
+            <summary>
+            文件上传的
+            </summary>
+            <param name="url">url</param>
+            <param name="fileUrl">文件的url</param>
+            <returns></returns>
+        </member>
+        <member name="T:Net6.WebApi.Utility.Route.RouteConvention">
+            <summary>
+            实现接口
+            </summary>
+        </member>
+        <member name="F:Net6.WebApi.Utility.Route.RouteConvention._centralPrefix">
+            <summary>
+            定义一个变量，保存路由前缀
+            </summary>
+        </member>
+        <member name="M:Net6.WebApi.Utility.Route.RouteConvention.#ctor(Microsoft.AspNetCore.Mvc.Routing.IRouteTemplateProvider)">
+            <summary>
+            调用时传入指定的路由前缀
+            </summary>
+            <param name="routeTemplateProvider"></param>
+        </member>
+        <member name="M:Net6.WebApi.Utility.Route.RouteConvention.Apply(Microsoft.AspNetCore.Mvc.ApplicationModels.ApplicationModel)">
+            <summary>
+            实现Apply方法
+            </summary>
+            <param name="application"></param>
+        </member>
+        <member name="T:Net6.WebApi.Utility.Swagger.ApiVersions">
+            <summary>
+            swagger的版本
+            </summary>
+        </member>
+        <member name="F:Net6.WebApi.Utility.Swagger.ApiVersions.V1">
+            <summary>
+            第一版本
+            </summary>
+        </member>
+        <member name="F:Net6.WebApi.Utility.Swagger.ApiVersions.V2">
+            <summary>
+            第二版本
+            </summary>
+        </member>
+        <member name="F:Net6.WebApi.Utility.Swagger.ApiVersions.V3">
+            <summary>
+            第三版本
+            </summary>
+        </member>
+        <member name="T:Net6.WebApi.WeatherForecast">
+            <summary>
+            天气的类
+            </summary>
+        </member>
+        <member name="P:Net6.WebApi.WeatherForecast.Date">
+            <summary>
+            时间
+            </summary>
+        </member>
+        <member name="P:Net6.WebApi.WeatherForecast.TemperatureC">
+            <summary>
+            温度
+            </summary>
+        </member>
+        <member name="P:Net6.WebApi.WeatherForecast.TemperatureF">
+            <summary>
+            摄氏度
+            </summary>
+        </member>
+        <member name="P:Net6.WebApi.WeatherForecast.Summary">
+            <summary>
+            提示
+            </summary>
+        </member>
+    </members>
+</doc>

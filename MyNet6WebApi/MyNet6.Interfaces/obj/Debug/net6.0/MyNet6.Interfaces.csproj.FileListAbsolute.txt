@@ -1,0 +1,11 @@
+D:\Net\MyNet6WebApi\MyNet6.Interfaces\bin\Debug\net6.0\MyNet6.Interfaces.deps.json
+D:\Net\MyNet6WebApi\MyNet6.Interfaces\bin\Debug\net6.0\MyNet6.Interfaces.dll
+D:\Net\MyNet6WebApi\MyNet6.Interfaces\bin\Debug\net6.0\MyNet6.Interfaces.pdb
+D:\Net\MyNet6WebApi\MyNet6.Interfaces\obj\Debug\net6.0\MyNet6.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net\MyNet6WebApi\MyNet6.Interfaces\obj\Debug\net6.0\MyNet6.Interfaces.AssemblyInfoInputs.cache
+D:\Net\MyNet6WebApi\MyNet6.Interfaces\obj\Debug\net6.0\MyNet6.Interfaces.AssemblyInfo.cs
+D:\Net\MyNet6WebApi\MyNet6.Interfaces\obj\Debug\net6.0\MyNet6.Interfaces.csproj.CoreCompileInputs.cache
+D:\Net\MyNet6WebApi\MyNet6.Interfaces\obj\Debug\net6.0\MyNet6.Interfaces.dll
+D:\Net\MyNet6WebApi\MyNet6.Interfaces\obj\Debug\net6.0\refint\MyNet6.Interfaces.dll
+D:\Net\MyNet6WebApi\MyNet6.Interfaces\obj\Debug\net6.0\MyNet6.Interfaces.pdb
+D:\Net\MyNet6WebApi\MyNet6.Interfaces\obj\Debug\net6.0\ref\MyNet6.Interfaces.dll
