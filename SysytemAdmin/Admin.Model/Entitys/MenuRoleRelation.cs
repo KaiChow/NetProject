@@ -5,28 +5,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SqlSugar;
-
 namespace Admin.Model.Entitys
 {
-    public class Role : IEntity
+    public class MenuRoleRelation:IBase
     {
+        /// <summary>
+        /// 菜单主键
+        /// </summary>
+        [SugarColumn(IsNullable = false)]
+        public long MenuId { get; set; }
 
         /// <summary>
-        /// 名称
+        /// 角色主键
         /// </summary>
         [SugarColumn(IsNullable = false)]
-        public string Name { get; set; }
-        /// <summary>
-        /// 顺序
-        /// </summary>
-        [SugarColumn(IsNullable = false)]
-        public long Order { get; set; }
-       
-        /// <summary>
-        /// 是否启用（0=未启用，1=启用）
-        /// </summary>
-        [SugarColumn(IsNullable = false)]
-        public bool IsEnable { get; set; }
-
+        public long RoleId { get; set; }
     }
 }

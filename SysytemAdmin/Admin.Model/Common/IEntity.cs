@@ -14,35 +14,35 @@ namespace Admin.Model.Common
         /// </summary>
 
         [SugarColumn(IsNullable = true)]
-        public string? Description { get; set; }
+        public string Description { get; set; }
         /// <summary>
         /// 创建人id
         /// </summary>
         [SugarColumn(IsNullable = false)]
-        public long Creator { get; set; }
+        public long CreateUserId { get; set; }
 
         /// <summary>
         /// 创建日期
         /// </summary>
         [SugarColumn(IsNullable = false)]
-        public long CreateTime { get; set; }
+        public DateTime CreateDate { get; set; }
 
         /// <summary>
         /// 修改人id
         /// </summary>
         [SugarColumn(IsNullable = true)]
-        public long Updater { get; set; }
+        public long ModifyUserId { get; set; }
 
         /// <summary>
         /// 修改日期
         /// </summary>
         [SugarColumn(IsNullable = true)]
-        public long UpdateTime { get; set; }
-
+        public DateTime ModifyDate { get; set; }
+        
         /// <summary>
         /// 是否删除
         /// </summary>
         [SugarColumn(IsNullable = false)]
-        public long IsDelete { get; set; }
+        public int IsDeleted { get; set; }
     }
 }
