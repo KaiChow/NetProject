@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vfofL3+Obmh7oItsa7YvCcF8uMcFyEk87WcX3euWpHBHCukuKrilIfyrnbVoL9dZVno7amsppzQPTwlXVcEOag==",
+  "dgSpecHash": "R3I2u2v9l0jy5736opZ63r0SCpdyDYlPxxp7jf3ZkVPLCY3AEmEZJarhEE9aMdfXiiQVjRrVqJkXQQTouCtXqA==",
   "success": true,
-  "projectFilePath": "D:\\Net\\NetProject\\SysytemAdmin\\Admin.Model\\Admin.Model.csproj",
+  "projectFilePath": "D:\\MyCodes\\Net\\NetProject\\SysytemAdmin\\Admin.Model\\Admin.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

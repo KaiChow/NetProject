@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u/4fCIN4Nzc80l4JiVgKNus/3dMrNq4MQgOeFtPVqy+9/pHfEic+bU36PLsm5LcHidvF6IrC9ie6p3h3A0cAWA==",
+  "dgSpecHash": "H/vl4obUaLfAW9sM17xEBdsZXVZ7B8EaBQkrDytFD7xYWxL+exqPe079uVkiKZFhycZMDFmSlyA0yv5gLnEubA==",
   "success": true,
-  "projectFilePath": "D:\\Net\\NetProject\\SysytemAdmin\\Sysytem.Admin\\Sysytem.Admin.csproj",
+  "projectFilePath": "D:\\MyCodes\\Net\\NetProject\\SysytemAdmin\\Sysytem.Admin\\Sysytem.Admin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

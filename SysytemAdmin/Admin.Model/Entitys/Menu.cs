@@ -18,7 +18,7 @@ namespace Admin.Model.Entitys
         /// 路由地址
         /// </summary>
         [SugarColumn(IsNullable = false)]
-        public int Index { get; set; }
+        public string Index { get; set; }
 
         /// <summary>
         /// 页面路径
