@@ -33,6 +33,12 @@ namespace Sysytem.Admin.Config
 
                 #endregion
 
+
+                //  注册接口和实现
+                builder.RegisterModule(new AutofacModuleRegister());
+                // Automapper的映射
+                app.Services.AddAutoMapper(typeof(AutoMapperConfigs));
+
             });
         }
     }

@@ -29,12 +29,12 @@ namespace Admin.Model.Entitys
         /// 父级
         /// </summary>
         [SugarColumn(IsNullable = false)]
-        public long ParentId { get; set; }
+        public int ParentId { get; set; }
         /// <summary>
         /// 顺序
         /// </summary>
         [SugarColumn(IsNullable = false)]
-        public long Order { get; set; }
+        public int Order { get; set; }
         /// <summary>
         /// 是否启用
         /// </summary>

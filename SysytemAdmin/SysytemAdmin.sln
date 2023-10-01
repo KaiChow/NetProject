@@ -3,14 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sysytem.Admin", "Sysytem.Admin\Sysytem.Admin.csproj", "{5DF9F04F-7FD1-4070-ADC6-04339A2B3E49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sysytem.Admin", "Sysytem.Admin\Sysytem.Admin.csproj", "{5DF9F04F-7FD1-4070-ADC6-04339A2B3E49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin.Model", "Admin.Model\Admin.Model.csproj", "{1549180B-98E0-45DD-8C31-07CA2BA0374A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Admin.Model", "Admin.Model\Admin.Model.csproj", "{1549180B-98E0-45DD-8C31-07CA2BA0374A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{17FED7AF-C343-49D4-AACC-1EE8D82774BA}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin.Interface", "Interface\Admin.Interface.csproj", "{06ADE835-AADE-413B-96C1-F6A371D01D6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin.Service", "Admin.Service\Admin.Service.csproj", "{5FD1278E-DC1B-4BD3-BF35-83FC70FDEED0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +30,14 @@ Global
 		{1549180B-98E0-45DD-8C31-07CA2BA0374A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1549180B-98E0-45DD-8C31-07CA2BA0374A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1549180B-98E0-45DD-8C31-07CA2BA0374A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06ADE835-AADE-413B-96C1-F6A371D01D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06ADE835-AADE-413B-96C1-F6A371D01D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06ADE835-AADE-413B-96C1-F6A371D01D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06ADE835-AADE-413B-96C1-F6A371D01D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD1278E-DC1B-4BD3-BF35-83FC70FDEED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD1278E-DC1B-4BD3-BF35-83FC70FDEED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD1278E-DC1B-4BD3-BF35-83FC70FDEED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD1278E-DC1B-4BD3-BF35-83FC70FDEED0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
