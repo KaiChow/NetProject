@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Admin.Model\Admin.Model.csproj" />
+    <ProjectReference Include="..\Admin.Service\Admin.Service.csproj" />
   </ItemGroup>
 
 </Project>

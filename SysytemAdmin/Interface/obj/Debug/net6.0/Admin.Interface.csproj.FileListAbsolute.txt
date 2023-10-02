@@ -1,0 +1,11 @@
+D:\MyCodes\Net\NetProject\SysytemAdmin\Interface\bin\Debug\net6.0\Admin.Interface.deps.json
+D:\MyCodes\Net\NetProject\SysytemAdmin\Interface\bin\Debug\net6.0\Admin.Interface.dll
+D:\MyCodes\Net\NetProject\SysytemAdmin\Interface\bin\Debug\net6.0\Admin.Interface.pdb
+D:\MyCodes\Net\NetProject\SysytemAdmin\Interface\obj\Debug\net6.0\Admin.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\Net\NetProject\SysytemAdmin\Interface\obj\Debug\net6.0\Admin.Interface.AssemblyInfoInputs.cache
+D:\MyCodes\Net\NetProject\SysytemAdmin\Interface\obj\Debug\net6.0\Admin.Interface.AssemblyInfo.cs
+D:\MyCodes\Net\NetProject\SysytemAdmin\Interface\obj\Debug\net6.0\Admin.Interface.csproj.CoreCompileInputs.cache
+D:\MyCodes\Net\NetProject\SysytemAdmin\Interface\obj\Debug\net6.0\Admin.Interface.dll
+D:\MyCodes\Net\NetProject\SysytemAdmin\Interface\obj\Debug\net6.0\refint\Admin.Interface.dll
+D:\MyCodes\Net\NetProject\SysytemAdmin\Interface\obj\Debug\net6.0\Admin.Interface.pdb
+D:\MyCodes\Net\NetProject\SysytemAdmin\Interface\obj\Debug\net6.0\ref\Admin.Interface.dll

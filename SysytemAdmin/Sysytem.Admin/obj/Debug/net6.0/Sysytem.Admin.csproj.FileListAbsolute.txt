@@ -240,3 +240,9 @@ D:\MyCodes\Net\NetProject\SysytemAdmin\Sysytem.Admin\obj\Debug\net6.0\refint\Sys
 D:\MyCodes\Net\NetProject\SysytemAdmin\Sysytem.Admin\obj\Debug\net6.0\Sysytem.Admin.pdb
 D:\MyCodes\Net\NetProject\SysytemAdmin\Sysytem.Admin\obj\Debug\net6.0\Sysytem.Admin.genruntimeconfig.cache
 D:\MyCodes\Net\NetProject\SysytemAdmin\Sysytem.Admin\obj\Debug\net6.0\ref\Sysytem.Admin.dll
+D:\MyCodes\Net\NetProject\SysytemAdmin\Sysytem.Admin\bin\Debug\net6.0\AutoMapper.dll
+D:\MyCodes\Net\NetProject\SysytemAdmin\Sysytem.Admin\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MyCodes\Net\NetProject\SysytemAdmin\Sysytem.Admin\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MyCodes\Net\NetProject\SysytemAdmin\Sysytem.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MyCodes\Net\NetProject\SysytemAdmin\Sysytem.Admin\bin\Debug\net6.0\Admin.Service.dll
+D:\MyCodes\Net\NetProject\SysytemAdmin\Sysytem.Admin\bin\Debug\net6.0\Admin.Service.pdb
